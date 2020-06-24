@@ -1,0 +1,10 @@
+
+
+
+/*  Retina */
+@media (min-resolution: 192dpi), (min-resolution: 2dppx) {
+    .site-header {
+        background-image: url('../img/background@2x.jpg');
+    }
+}
+/* / Retina */
